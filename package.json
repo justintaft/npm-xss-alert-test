@@ -1,0 +1,19 @@
+{
+  "name": "npm-xss-alert-test",
+  "version": "0.0.1",
+  "description": "Peformers call to alert()",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": { },
+  "engines": { "node": "4.0.0" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justintaft/npm-xss-alert-test"
+  },
+  "keywords": [],
+  "author": "Justin Taft",
+  "contributors": [ ],
+  "license": "MIT"
+}
